@@ -22,7 +22,7 @@ const Welcome = () => {
         console.log('Connecting metamask')
     }
     const handleSubmit = (e) => {
-        const { addressTo, amount, keyword, message } = formData;
+        //const { addressTo, amount, keyword, message } = formData;
     }
 
 
